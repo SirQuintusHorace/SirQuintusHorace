@@ -8,7 +8,7 @@
 
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
-### Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country. I am a 17 year old boy with a passion for a lot of things which I will promptly list below. If there is something you wonder about, would like me to answer, or if you just want to chat hit me up on one of my socials :)
+### |Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country. I |am a 17 year old boy with a passion for a lot of things which I will promptly list below. If there is |something you wonder about, would like me to answer, or if you just want to chat hit me up on one of my |socials :)
 #### Music, programming (duh), football, books and literature, gaming, \n Languages and Tools: JS / Python / CSS / HTML 
 
 - 🌱 I’m currently learning to code/program 
