@@ -11,11 +11,13 @@ Skills: JS / Python / Gaming /
 - 📫 How to reach me: Check my links 
 - ⚡ Fun fact: I love when random people send me messages 
 
-[![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+  [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/SirQuintusHorace/github-readme-stats)
+</div>
 
 
 
-
+anuraghazra
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HoraceQuintus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/SirQuintusHorace/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/997886138519912468)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/MrPickleBean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/SirQuintusHorace)  
