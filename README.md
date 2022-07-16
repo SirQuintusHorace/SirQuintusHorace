@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/9d/f7/cd/9df7cd2c297d92ea056d4c33ac05ee00.gif" width="1200" height="675"/>
+</div>
+
 ## Well, Hello There!
 #### Coder / Programmer / Gamer / Guitarist / Footballer / Nerd
 
