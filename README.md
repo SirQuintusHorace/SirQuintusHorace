@@ -1,10 +1,6 @@
 <h1 align="center">Well, hello there!  I'm Quintus</h1>
 <p align="center"> <img src="https://gpvc.arturio.dev/SirQuintusHorace"></p>
 
-<div align="center">
-  <img src="https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif" width="640" height="352"/>
-</div>
-
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
 <h1 align="center">About Me</h1>
