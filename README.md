@@ -11,9 +11,8 @@ Skills: JS / Python / Gaming /
 - 📫 How to reach me: Check my links 
 - ⚡ Fun fact: I love when random people send me messages 
 
-<div id="header" align="center">
-  [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
