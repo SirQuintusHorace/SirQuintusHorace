@@ -2,14 +2,16 @@
   <img src="https://i.pinimg.com/originals/c5/16/b7/c516b7680f10df4cbd321767557d9170.jpg" width="1200" height="600"/>
 </div>
 
-## Well, Hello There!
-#### Coder / Programmer / Gamer / Guitarist / Footballer / Nerd
+# Well, Hello There!
+## I don't know what to write... enjoy the view?
+
 
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
-Hey! I am known here as Quintus Horace, a novice programmer/coder from a very cold country. Don't be afraid to contact me :)
-
-Skills: JS / Python / Gaming /
+Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country.
+I am (at the time of writing this) 17 years old with a passion for a lot of things which I will promptly list below:
+### Music, programming (duh), football, books and literature, 
+### Language : JS / Python
 
 - 🌱 I’m currently learning to code/program 
 - 🤔 I’m looking for help with learning to code/program 
