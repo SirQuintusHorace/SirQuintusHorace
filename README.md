@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif" width="640" height="352"/>
 </div>
 
-<h1 align="center">Well, hello there! <img src="https://static-cdn.jtvnw.net/emoticons/v2/880744/static/light/3.0">  <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_453537635a4748a2a826ad0d7b9769d2/static/light/3.0">  <img src="https://static-cdn.jtvnw.net/emoticons/v2/880743/static/light/3.0">, I'm Quintus</h1>
+<h1 align="center">Well, hello there! <img src="https://static-cdn.jtvnw.net/emoticons/v2/880744/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_453537635a4748a2a826ad0d7b9769d2/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/880743/static/light/3.0"> I'm Quintus</h1>
 <h1 align="center">I don't know what to write... enjoy the view?</h1>
 
 
