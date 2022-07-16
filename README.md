@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c5/16/b7/c516b7680f10df4cbd321767557d9170.jpg" width="960" height="540"/>
+  <img src="https://c.tenor.com/RD_Ajk295VcAAAAd/chill.gif" width="640" height="352"/>
 </div>
 
 # Well, Hello There!
@@ -8,10 +8,10 @@
 
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
-Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country.
-I am (at the time of writing this) 17 years old with a passion for a lot of things which I will promptly list below:
+### Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country.
+### I am (at the time of writing this) 17 years old with a passion for a lot of things which I will promptly list below:
 ### Music, programming (duh), football, books and literature, 
-### Language : JS / Python
+### Languages: JS / Python
 
 - 🌱 I’m currently learning to code/program 
 - 🤔 I’m looking for help with learning to code/program 
@@ -21,6 +21,7 @@ I am (at the time of writing this) 17 years old with a passion for a lot of thin
 [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Visits](https://gpvc.arturio.dev/SirQuintusHorace)
 
 
 
