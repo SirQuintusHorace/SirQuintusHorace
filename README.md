@@ -3,11 +3,12 @@
 </div>
 
 <h2 align="center">Well, hello there! <img src="https://static-cdn.jtvnw.net/emoticons/v2/880744/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_453537635a4748a2a826ad0d7b9769d2/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/880743/static/light/3.0"> I'm Quintus</h2>
-<h1 align="center">About Me</h1>
 
 <p align="center"> <img src="https://gpvc.arturio.dev/SirQuintusHorace"></p>
 
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
+
+<h1 align="center">About Me</h1>
 
 ### Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country. I am a 17 year old boy with a passion for a lot of things which I will promptly list below. If there is something you wonder about, would like me to answer, or if you just want to chat, hit me up on one of my socials :)
 ### Music, programming (duh), football, books and literature, and gaming to name a few
@@ -27,4 +28,6 @@
 
 [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-<p align="center"> <img src="twimg.com/profile_banners/1548342974991323137/1658008792/1500x500"></p>
+<div align="center">
+  <img src="twimg.com/profile_banners/1548342974991323137/1658008792/1500x500" width="640" height="352"/>
+</div>
