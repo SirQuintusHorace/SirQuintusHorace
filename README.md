@@ -1,5 +1,7 @@
-## Well, Hello There!
-#### Coder / Programmer / Gamer / Guitarist / Footballer / Nerd
+<div id = "header" align="center"
+     ## Well, Hello There!
+     #### Coder / Programmer / Gamer / Guitarist / Footballer / Nerd
+</div>
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
 Hey! I am known here as Quintus Horace, a novice programmer/coder from a very cold country. Don't be afraid to contact me :)
