@@ -13,8 +13,8 @@ Skills: JS / Python / Gaming /
 
 [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
 
+![](https://i.pinimg.com/originals/de/4f/5d/de4f5d547a599bd6680c4a1dd1ba4843.jpg)
 
 
 
