@@ -28,6 +28,4 @@
 
 [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-<div align="center">
-  <img src="twimg.com/profile_banners/1548342974991323137/1658008792/1500x500" width="640" height="352"/>
-</div>
+![](twimg.com/profile_banners/1548342974991323137/1658008792/1500x500)
