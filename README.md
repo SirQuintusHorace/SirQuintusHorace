@@ -4,6 +4,7 @@
 
 <h2 align="center">Well, hello there! <img src="https://static-cdn.jtvnw.net/emoticons/v2/880744/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_453537635a4748a2a826ad0d7b9769d2/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/880743/static/light/3.0"> I'm Quintus</h2>
 <h1 align="center">My About Me</h1>
+
 ![Visits](https://gpvc.arturio.dev/SirQuintusHorace)
 
 
@@ -12,7 +13,7 @@
 ### Hey! I am known here online as Quintus Horace, a novice programmer/coder from a very cold country. I am a 17 year old boy with a passion for a lot of things which I will promptly list below. If there is something you wonder about, would like me to answer, or if you just want to chat, hit me up on one of my socials :)
 #### Music, programming (duh), football, books and literature, and gaming to name a few
 
-<p align="left"> 
+<p> 
 - 🌱 I’m currently **learning to code/program**
 - 🤔 I’m looking for **help with learning to code/program** 
 - 📫 How to reach me: **Check my links**
