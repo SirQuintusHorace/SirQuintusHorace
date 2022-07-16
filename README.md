@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Well, hello there! <img src="https://static-cdn.jtvnw.net/emoticons/v2/880744/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_453537635a4748a2a826ad0d7b9769d2/static/light/3.0"><img src="https://static-cdn.jtvnw.net/emoticons/v2/880743/static/light/3.0"> I'm Quintus</h1>
-<h1 align="center">I don't know what to write... enjoy the view?</h1>
+<h1 align="center">I don't know what to write... enjoy the view?
+![Visits](https://gpvc.arturio.dev/SirQuintusHorace)</h1>
 
 
 ![](https://pbs.twimg.com/profile_banners/1548342974991323137/1657995273/1500x500)
@@ -20,7 +21,6 @@
 
 [![Quintus' stats](https://github-readme-stats.vercel.app/api?username=SirQuintusHorace&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visits](https://gpvc.arturio.dev/SirQuintusHorace)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HoraceQuintus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/SirQuintusHorace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/SirQuintusHorace/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/997886138519912468)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/MrPickleBean/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/SirQuintusHorace)  
 
